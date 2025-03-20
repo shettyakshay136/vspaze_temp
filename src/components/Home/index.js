@@ -193,15 +193,6 @@ const Home = () => {
                             />
                         </div>
                     </div>
-
-                    <div className="row align-items-center mb-5 quote-image">
-                        <img
-                            src="https://res.cloudinary.com/dzptijryk/image/upload/v1726259183/Screenshot_14-9-2024_15530_autozone-theme.com_efef75.jpg"
-                            alt="car-quote"
-                            className="quote-img"
-                            loading="lazy"
-                        />
-                    </div>
                 </div>
             </div>
 
