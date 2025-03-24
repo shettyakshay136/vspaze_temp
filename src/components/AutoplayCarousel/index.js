@@ -7,7 +7,7 @@ const AutoplayCarousel = () => {
             <div className="carousel-inner">
                 <div className="carousel-item active">
                     <img
-                        src="/3.jpg"
+                        src="/Images/banner.png"
                         className="d-block w-100"
                         alt="yellow-car"
                     />

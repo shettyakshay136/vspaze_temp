@@ -168,7 +168,7 @@ const Home = () => {
                         </div>
                         <div className="col-12 col-md-8">
                             <img
-                                src="/1.jpg"
+                                src="/6.png"
                                 className="img-fluid"
                                 alt="light-spark-image"
                                 loading="lazy"
@@ -186,7 +186,7 @@ const Home = () => {
 
                         <div className="col-12 col-md-8 order-md-1">
                             <img
-                                src="/2.jpg"
+                                src="/5.png"
                                 className="img-fluid"
                                 alt="light-spark-image"
                                 loading="lazy"
